@@ -1,0 +1,1 @@
+sudo mysql sportbase -e "SELECT eesnimi, perenimi, roll FROM kasutajad LIMIT 3; SELECT nimi, mis_paevad, max_osalejad FROM spordiala LIMIT 3;"
