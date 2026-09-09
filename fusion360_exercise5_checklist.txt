@@ -1,0 +1,47 @@
+FUSION 360 EXERCISE 5 - QUICK CHECKLIST
+==========================================
+
+[  ] Create new sketch on XY plane
+[  ] Draw 3 circles from origin: Ø27, Ø40, Ø45 → Constrain Concentric
+[  ] Draw ellipse centered at origin: 120mm wide × 90mm high
+[  ] Constrain ellipse horizontal & vertical axes
+[  ] Offset ellipse 8mm inward → Offset Edge tool
+[  ] Draw circle right of center → apply Equal constraint
+[  ] Draw circle left of center (mirror)
+[  ] Constrain both circles Ø14mm
+[  ] Constrain side circles: 46mm from center each (92mm total span)
+[  ] Draw Ø28mm circle on each Ø14mm circle center
+[  ] Apply Equal constraint to the Ø28mm circles
+[  ] Draw 14mm wide rectangle through origin
+[  ] Position rectangle so it fits between the two ellipses
+[  ] Use Trim tool to clean extra geometry
+[  ] Apply R5mm Fillet to 4 interior corners
+[  ] Verify sketch is fully constrained (blue = good)
+[  ] Click Finish Sketch
+[  ] Save / Export as needed
+
+KEY COMMANDS IN FUSION 360 SKETCH MODE:
+C = Circle
+E = Ellipse  
+L = Line
+R = Rectangle
+Shift+R = Trim
+Shift+F = Fillet
+Ctrl+Z = Undo
+
+CONSTRAINT SHORTCUTS:
+Ctrl+D = Dimension
+Ctrl+E = Equal
+Ctrl+S = Symmetric
+Ctrl+H = Horizontal
+Ctrl+V = Vertical
+
+MEASUREMENTS TO USE:
+- Origin circles: 27, 40, 45 (diameters)
+- Ellipse: 120 × 90 (width × height)
+- Offset: 8mm inward
+- Side circles: 14mm diameter, 46mm left/right from origin
+- Inner circles: 28mm diameter (equal to each other)
+- Rectangle: 14mm wide, centered
+- Fillets: 5mm radius on inner corners
+
